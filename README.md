@@ -48,7 +48,7 @@ O objetivo deste projeto é **criar**, **listar**, **editar** e **deletar** jogo
 
 ```bash
 cd graphql
-npm install
+npm install express apollo-server-express graphql cors
 ```
 
 ### 2. Iniciar o servidor GraphQL
